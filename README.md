@@ -15,4 +15,4 @@ In this repository you will find solutions of some problems from various Competi
 4. ReverseWords (Python skill Certification)
 #
 # LeetCode
-Hamming Distance
+1. Hamming Distance
