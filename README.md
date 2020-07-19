@@ -7,6 +7,7 @@ In this repository you will find solutions of some problems from various Competi
 3. Chef and Strings (HEFSTR1)
 4. Chef and Card Game (RDGAME)
 5. Missing a Point (TMSSNG)
+6. Chef vs Doof (CLLCM)
 #
 # HackerRank
 1. AdderClass (Java skill Certification)
