@@ -10,6 +10,7 @@ In this repository you will find solutions of some problems from various Competi
 6. Chef vs Doof (CLLCM)
 7. Even-tual Reduction (EVENTUAL)
 8. OR-thodox Distinction (ORTHODOX)
+9. Usain Bolt(USANBOLT)
 #
 # HackerRank
 1. AdderClass (Java skill Certification)
