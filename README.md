@@ -11,6 +11,7 @@ In this repository you will find solutions of some problems from various Competi
 7. Even-tual Reduction (EVENTUAL)
 8. OR-thodox Distinction (ORTHODOX)
 9. Usain Bolt(USANBOLT)
+10. What Is This, a Crossover Episode Problem (BOJACK)
 #
 # HackerRank
 1. AdderClass (Java skill Certification)
