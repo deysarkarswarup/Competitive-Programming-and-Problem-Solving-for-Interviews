@@ -13,6 +13,7 @@ In this repository you will find solutions of some problems from various Competi
 9. Usain Bolt(USANBOLT)
 10. What Is This, a Crossover Episode Problem (BOJACK)
 11. Is This a Give Away (GVAWAY)
+12. Chef and Linear Chess (LINCHESS)
 
 #
 # HackerRank
