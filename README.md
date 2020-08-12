@@ -14,6 +14,7 @@ In this repository you will find solutions of some problems from various Competi
 10. What Is This, a Crossover Episode Problem (BOJACK)
 11. Is This a Give Away (GVAWAY)
 12. Chef and Linear Chess (LINCHESS)
+13. Chef Wars - Return of the Jedi (CHEFWARS)
 
 #
 # HackerRank
