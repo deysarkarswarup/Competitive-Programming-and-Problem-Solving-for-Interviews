@@ -6,12 +6,14 @@ In this repository you will find solutions of some problems from various Competi
 2. Cache Hit (CACHEHIT)
 3. Chef and Strings (CHEFSTR1)
 4. Chef and Card Game (CARDGAME)
-5. Missing a Point (TMSSNG)
+5. Missing a Point (PTMSSNG)
 6. Chef vs Doof (CLLCM)
 7. Even-tual Reduction (EVENTUAL)
 8. OR-thodox Distinction (ORTHODOX)
 9. Usain Bolt(USANBOLT)
 10. What Is This, a Crossover Episode Problem (BOJACK)
+11. Is This a Give Away (GVAWAY)
+
 #
 # HackerRank
 1. AdderClass (Java skill Certification)
