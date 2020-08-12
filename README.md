@@ -15,6 +15,7 @@ In this repository you will find solutions of some problems from various Competi
 11. Is This a Give Away (GVAWAY)
 12. Chef and Linear Chess (LINCHESS)
 13. Chef Wars - Return of the Jedi (CHEFWARS)
+14. Another Card Game Problem (CRDGAME3)
 
 #
 # HackerRank
