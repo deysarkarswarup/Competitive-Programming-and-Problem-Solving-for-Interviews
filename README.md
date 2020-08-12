@@ -2,10 +2,10 @@
 In this repository you will find solutions of some problems from various Competitive Programming platforms which includes HackerRank, CodeChef, LeetCode, HackerBlock etc..
 #
 # Code Chef
-1. Ada King (DAKING)
-2. Cache Hit (ACHEHIT)
-3. Chef and Strings (HEFSTR1)
-4. Chef and Card Game (RDGAME)
+1. Ada King (ADAKING)
+2. Cache Hit (CACHEHIT)
+3. Chef and Strings (CHEFSTR1)
+4. Chef and Card Game (CARDGAME)
 5. Missing a Point (TMSSNG)
 6. Chef vs Doof (CLLCM)
 7. Even-tual Reduction (EVENTUAL)
