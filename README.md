@@ -18,6 +18,7 @@ In this repository you will find solutions of some problems from various Competi
 14. Another Card Game Problem (CRDGAME3)
 15. Chefina and Swaps (CHFNSWPS)
 16. Doctor Chef (DRCHEF)
+17. Chef and Steps (CHEFSTEP)
 
 #
 # HackerRank
