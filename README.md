@@ -19,6 +19,7 @@ In this repository you will find solutions of some problems from various Competi
 15. Chefina and Swaps (CHFNSWPS)
 16. Doctor Chef (DRCHEF)
 17. Chef and Steps (CHEFSTEP)
+18. Smallest KMP (SKMP)
 
 #
 # HackerRank
