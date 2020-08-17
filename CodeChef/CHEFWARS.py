@@ -33,6 +33,19 @@
 
 #Soultion will be uploaded at the end of the contest
 
+# cook your dish here
+t = int(input())
+for i in range(t):
+    h, p=map(int, input().split())
+    while p!=0:
+        h=h-p
+        p=int(p/2)
+        
+    if h<=0:
+        print(1)
+    else:
+        print(0)
+
 
 
 
