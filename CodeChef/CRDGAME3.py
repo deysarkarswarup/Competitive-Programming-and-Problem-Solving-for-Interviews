@@ -39,7 +39,17 @@
 
 #Soultion will be uploaded at the end of the contest
 
-
+# cook your dish here
+import math as mth
+t = int(input())
+for i in range(t):
+    chef, rick = map(int,input().split())
+    chef = chef/9
+    rick = rick/9
+    if mth.ceil(rick) <= mth.ceil(chef):
+        print(1,mth.ceil(rick))
+    else:
+        print(0,mth.ceil(chef))
 
 
 
