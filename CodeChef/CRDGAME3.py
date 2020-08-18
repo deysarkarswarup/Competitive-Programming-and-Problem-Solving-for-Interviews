@@ -36,9 +36,6 @@
 
 # Example case 3: Chef and Rick could generate e.g. 86 and 888 respectively. Chef's integer has 2 digits and Rick cannot generate an integer with less than 3 digits, so Chef wins.
 
-
-#Soultion will be uploaded at the end of the contest
-
 # cook your dish here
 import math as mth
 t = int(input())
