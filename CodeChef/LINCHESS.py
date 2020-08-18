@@ -39,4 +39,21 @@ Chef wants to play a game of linear chess on a one-dimensional board ― an infi
 
 # Example case 2: No player can capture Chef's pawn.
 
-#Solution will be updated at the end of the contest
+
+# cook your dish here
+t = int(input())
+for i in range(t):
+    n, k=map(int, input().split())
+    p=list(map(int, input().split()))
+    output=[]
+    for i in range(n):
+        if k%p[i]==0:
+            output.append(p[i])
+    #print(output)
+    if len(output)==0:
+        print(-1)
+    else:
+        output.sort()
+        lenn = len(output)
+        #print(lenn)
+        print(output[lenn-1])
