@@ -34,4 +34,40 @@ Chef has a string S. He also has another string P, called pattern. He wants to f
 # abohotypsu
 # aabadawyehhorst
 
-#Solution will be updated after contest ends
+# cook your dish here
+t = int(input())
+for _ in range(t):
+    string = list(input())
+    pattern = input()
+    p = pattern
+    pattern = list(pattern)
+    for i in pattern:
+        string.remove(i)
+    string.sort()
+    l=[]
+    s=''
+    if pattern[0] in string:
+        for i in range (len(string)):
+            if(string[i]==pattern[0]):
+                s = s+string[i]
+                string[i]=''
+        l.append(p)
+        l.append(s)
+        l2=sorted(l)
+        l1=''.join(str(i) for i in l)
+        l2=''.join(str(i) for i in l2)
+        string.append(min(l1,l2))
+        string.sort()
+        print(''.join(str(i) for i in string))
+    else:
+        c=0
+        for i in range (len(string)):
+            ascii_string = ord(string[i])
+            ascii_pattern = ord(pattern[0])
+            if(ascii_string > ascii_pattern):
+                string.insert(i,p)
+                c=c+1
+                break
+        if(c==0):
+            string.insert(len(string),p)
+        print(''.join(str(i) for i in string))
