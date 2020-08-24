@@ -21,6 +21,7 @@ In this repository you will find solutions of some problems from various Competi
 17. Chef and Steps (CHEFSTEP)
 18. Smallest KMP (SKMP)
 19. Chef and Wedding Arrangements (CHEFWED)
+20. Polygon Relationship (POLYREL)
 
 #
 # HackerRank
