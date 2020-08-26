@@ -32,3 +32,4 @@ In this repository you will find solutions of some problems from various Competi
 #
 # LeetCode
 1. Hamming Distance
+2. Rotate Array
