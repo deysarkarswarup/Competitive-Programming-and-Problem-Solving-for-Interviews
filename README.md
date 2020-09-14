@@ -37,6 +37,7 @@ In this repository you will find solutions of some problems from various Competi
 4. Add Digits
 5. Maximum Subarray
 6. Trapping Rain Water
+7. Container With Most Water
 #
 # CodeForces
 1. Yet Another Two Integers Problem
