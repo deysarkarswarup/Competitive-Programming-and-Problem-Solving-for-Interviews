@@ -36,6 +36,7 @@ In this repository you will find solutions of some problems from various Competi
 3. Remove Duplicates
 4. Add Digits
 5. Maximum Subarray
+6. Trapping Rain Water
 #
 # CodeForces
 1. Yet Another Two Integers Problem
