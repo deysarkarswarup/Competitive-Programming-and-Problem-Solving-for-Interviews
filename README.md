@@ -35,6 +35,7 @@ In this repository you will find solutions of some problems from various Competi
 2. Rotate Array
 3. Remove Duplicates
 4. Add Digits
+5. Maximum Subarray
 #
 # CodeForces
 1. Yet Another Two Integers Problem
