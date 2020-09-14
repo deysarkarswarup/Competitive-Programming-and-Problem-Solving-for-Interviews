@@ -39,6 +39,7 @@ In this repository you will find solutions of some problems from various Competi
 6. Trapping Rain Water
 7. Container With Most Water
 8. Single Number I
+9. Single Number II
 #
 # CodeForces
 1. Yet Another Two Integers Problem
