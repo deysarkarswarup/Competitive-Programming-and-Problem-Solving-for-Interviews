@@ -38,6 +38,7 @@ In this repository you will find solutions of some problems from various Competi
 5. Maximum Subarray
 6. Trapping Rain Water
 7. Container With Most Water
+8. Single Number I
 #
 # CodeForces
 1. Yet Another Two Integers Problem
