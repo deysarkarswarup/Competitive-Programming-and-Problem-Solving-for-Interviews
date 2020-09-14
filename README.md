@@ -40,6 +40,7 @@ In this repository you will find solutions of some problems from various Competi
 7. Container With Most Water
 8. Single Number I
 9. Single Number II
+10. Single Number III
 #
 # CodeForces
 1. Yet Another Two Integers Problem
