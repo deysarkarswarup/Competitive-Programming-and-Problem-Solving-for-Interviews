@@ -43,6 +43,7 @@ In this repository you will find solutions of some problems from various Competi
 9. Single Number II
 10. Search Insert Position
 11. Reverse String
+12. Reverse Vowels of a String
 #
 # CodeForces
 1. Yet Another Two Integers Problem
