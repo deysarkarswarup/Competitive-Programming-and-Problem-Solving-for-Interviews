@@ -22,6 +22,7 @@ In this repository you will find solutions of some problems from various Competi
 18. Smallest KMP (SKMP)
 19. Chef and Wedding Arrangements (CHEFWED)
 20. Polygon Relationship (POLYREL)
+21. Bowling Strategy (BOWLERS)
 
 #
 # HackerRank
