@@ -42,6 +42,7 @@ In this repository you will find solutions of some problems from various Competi
 8. Single Number I
 9. Single Number II
 10. Search Insert Position
+11. Reverse String
 #
 # CodeForces
 1. Yet Another Two Integers Problem
