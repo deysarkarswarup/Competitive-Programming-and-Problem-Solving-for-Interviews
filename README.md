@@ -45,6 +45,7 @@ In this repository you will find solutions of some problems from various Competi
 11. Reverse String
 12. Reverse Vowels of a String
 13. Ransom Note
+14. Valid Palindrome
 #
 # CodeForces
 1. Yet Another Two Integers Problem
