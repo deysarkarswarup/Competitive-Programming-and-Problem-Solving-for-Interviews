@@ -48,6 +48,7 @@ In this repository you will find solutions of some problems from various Competi
 14. Valid Palindrome
 15. Plus One
 16. Nim Game
+17. Sliding Window Maximum
 #
 # CodeForces
 1. Yet Another Two Integers Problem
