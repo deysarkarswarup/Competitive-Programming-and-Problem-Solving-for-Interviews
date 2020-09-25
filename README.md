@@ -49,6 +49,7 @@ In this repository you will find solutions of some problems from various Competi
 15. Plus One
 16. Nim Game
 17. Sliding Window Maximum
+18. Running Sum of 1d Array
 #
 # CodeForces
 1. Yet Another Two Integers Problem
