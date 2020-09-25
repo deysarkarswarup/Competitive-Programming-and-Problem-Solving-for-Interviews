@@ -53,3 +53,6 @@ In this repository you will find solutions of some problems from various Competi
 #
 # CodeForces
 1. Yet Another Two Integers Problem
+#
+# SPOJ
+1. ARRAYSUB
