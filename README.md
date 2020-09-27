@@ -50,6 +50,7 @@ In this repository you will find solutions of some problems from various Competi
 16. Nim Game
 17. Sliding Window Maximum
 18. Running Sum of 1d Array
+19. Defanging an IP Address
 #
 # CodeForces
 1. Yet Another Two Integers Problem
