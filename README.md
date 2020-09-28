@@ -51,6 +51,7 @@ In this repository you will find solutions of some problems from various Competi
 17. Sliding Window Maximum
 18. Running Sum of 1d Array
 19. Defanging an IP Address
+20. To Lower Case
 #
 # CodeForces
 1. Yet Another Two Integers Problem
