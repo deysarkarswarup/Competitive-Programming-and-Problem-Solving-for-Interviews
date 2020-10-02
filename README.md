@@ -54,6 +54,7 @@ In this repository you will find solutions of some problems from various Competi
 20. To Lower Case
 21. Maximum Sum Circular Subarray
 22. Roman to Integer
+23. Reverse Integer
 #
 # CodeForces
 1. Yet Another Two Integers Problem
