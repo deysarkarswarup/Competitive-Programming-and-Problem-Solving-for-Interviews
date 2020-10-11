@@ -57,7 +57,6 @@ In this repository you will find solutions of some problems from various Competi
 23. Reverse Integer
 24. Palindrome Number
 25. Minimum Cost to Move Chips to The Same Position
-26. Minimum Value to Get Positive Step by Step Sum
 #
 # CodeForces
 1. Yet Another Two Integers Problem
