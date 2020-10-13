@@ -24,6 +24,7 @@ In this repository you will find solutions of some problems from various Competi
 20. Polygon Relationship (POLYREL)
 21. Bowling Strategy (BOWLERS)
 22. Chef and Easy Queries (CHEFEZQ)
+23. Covid Run (CVDRUN)
 
 #
 # HackerRank
