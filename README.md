@@ -23,6 +23,7 @@ In this repository you will find solutions of some problems from various Competi
 19. Chef and Wedding Arrangements (CHEFWED)
 20. Polygon Relationship (POLYREL)
 21. Bowling Strategy (BOWLERS)
+22. Chef and Easy Queries (CHEFEZQ)
 
 #
 # HackerRank
